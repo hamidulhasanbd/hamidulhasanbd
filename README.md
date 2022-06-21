@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hamidulhasanbd
 - 👀 I’m interested in Mern Stack
 - 🌱 I’m currently learning Mern Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
 - Phone : 01722545215
 - Mail: hamidulcse1997@gmail.com
 
